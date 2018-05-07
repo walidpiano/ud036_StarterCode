@@ -1,4 +1,5 @@
-import media, fresh_tomatoes
+import fresh_tomatoes
+import media
 
 # my movies
 black_panther = media.Movie("Black Panther",
